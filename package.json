@@ -1,5 +1,6 @@
 {
   "name": "@serverless-components/express",
+  "version": "1.0.0",
   "private": true,
   "author": "Serverless, Inc.",
   "license": "Apache",
